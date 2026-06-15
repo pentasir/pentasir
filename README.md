@@ -12,7 +12,7 @@ For the past three years I have run operations and systems at Tiffany & Co. (LVM
 
 ## How I work
 
-I use Claude Code, Cursor, and n8n daily. My interest is the unglamorous middle of AI work: taking a real business problem, building the solution, and staying with it through testing, rollout, and the corrections that follow. I am open to AI delivery and automation work, hybrid or remote, on New Zealand hours.
+I use Claude Code, Cursor, and n8n daily. My interest is the unglamorous middle of AI work: taking a real business problem, building the solution, and staying with it through testing, rollout, and the corrections that follow. I am open to AI delivery and automation work, hybrid or remote.
 
 - Studio and case studies: [pentasir.com](https://www.pentasir.com)
 - LinkedIn: [jason-don](https://www.linkedin.com/in/jason-don-b01390189/)
