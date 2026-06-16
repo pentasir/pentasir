@@ -16,4 +16,4 @@ I use Claude Code, Cursor, and n8n daily. My interest is the unglamorous middle 
 
 - Studio and case studies: [pentasir.com](https://www.pentasir.com)
 - LinkedIn: [jason-don](https://www.linkedin.com/in/jason-don-b01390189/)
-- Email: hello@pentasir.com
+- Work Email: hello@pentasir.com
