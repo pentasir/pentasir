@@ -6,6 +6,8 @@ For the past three years I have run operations and systems (LVMH): reporting, in
 
 ## What lives here
 
+**[compendium](https://github.com/pentasir/compendium)** is a daily reflection app built on one idea: most of what we think today is a recurrence of yesterday. You write one entry a day, and it surfaces the words you keep returning to, so you can see whether your thinking is moving or circling. It runs entirely on your machine; no account, no network call. On the desktop, every day is a plain Markdown file you own, readable in Obsidian. The same open-source code ships as a web app and a native desktop app.
+
 **[thirsty-llm](https://github.com/pentasir/thirsty-llm)** tracks the water footprint of Claude Code sessions. It runs entirely on your machine. Nothing is sent anywhere; there is no API key. When the lead author of the paper behind my original estimates told me his 2023 numbers no longer applied to modern models, I re-anchored the tool to measured data and cut the estimates by a factor of thirty-nine, publicly. The tool exists to be accurate, not alarming.
 
 **[Ink-blot-animation](https://github.com/pentasir/Ink-blot-animation)** is a WebGL ink-blot I built for my studio's site. Three.js and GLSL, with real-time parameter controls. Open source, take it.
