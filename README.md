@@ -1,6 +1,6 @@
 # Jason K. Don
 
-Auckland, New Zealand. I work in business operations and build the automation myself.
+Auckland, New Zealand. I work in business operations and build the automations myself.
 
 For the past three years I have run operations and systems (LVMH): reporting, inventory, compliance, a team of fifteen. When a manual workflow was eating the sales team's hours, I built the internal tool that removed it. The tool returned 152 hours of selling time a year, worth about $230K. I tested it with the people who use it and led the rollout. Before that I co-founded two small companies, and for a year I consulted for an AI road-safety startup, coordinating a twelve-person engineering team.
 
